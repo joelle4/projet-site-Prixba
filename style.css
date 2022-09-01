@@ -1,4 +1,8 @@
-header > h1 {
+body {
+  width: 100%;
+}
+
+.title {
   color: blue;
 }
 
