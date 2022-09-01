@@ -1,3 +1,43 @@
 .title {
     color: blue;
 }
+
+.page {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    border: solid 1px #000; 
+    margin-top: 70px ;
+}
+
+.nom {
+    display: flex;
+}
+
+.utilisateur {
+    display: flex;
+    justify-content: flex-end;
+ 
+
+}
+
+.service {
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+
+.action {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-evenly;
+    color: red;
+    margin
+}
+
+h5 {
+    display: flex;
+    justify-content: flex end;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
