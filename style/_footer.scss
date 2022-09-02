@@ -1,3 +1,21 @@
+footer {
+    width: 100%;
+}
+
+footer>.container {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.w23 {
+    width: 25%;
+}
+
 footer>h1 {
     color: mediumorchid;
+}
+
+.footer-bot {
+    width: 50%;
 }
